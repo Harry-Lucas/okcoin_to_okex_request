@@ -1,0 +1,2 @@
+# okcoin_to_okex_request
+将okcoin官方接口文档修改成可以访问okex的python代码
